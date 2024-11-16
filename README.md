@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Ebook sobre a história dos vinhos
+Ebook sobre a história dos vinhos italianos
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
