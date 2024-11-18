@@ -24,7 +24,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Ebook sobre a história dos vinhos italianos
-Link [Baixe o Ebook sobre Vinhos Italianos](./ebook-vinhos-italianos.pdf)
+Link [Baixe o Ebook sobre Vinhos Italianos](./Ebook_Vinhos_italianos.pdf)
 
 
 ## 🤖 Tecnologias Utilizadas
