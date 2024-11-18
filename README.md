@@ -24,7 +24,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Ebook sobre a história dos vinhos italianos
-Link [Baixe o Ebook sobre Vinhos Italianos](https://github.com/psakai1/lab-natty-or-not/blob/5ab795cc56db85775fa4fbb85c39cffec325f51b/Ebook_Vinhos_italianos.pdf))
+Link [Baixe o Ebook sobre Vinhos Italianos](https://github.com/psakai1/lab-natty-or-not/blob/5ab795cc56db85775fa4fbb85c39cffec325f51b/Ebook_Vinhos_italianos.pdf)
 
 
 ## 🤖 Tecnologias Utilizadas
