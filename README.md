@@ -24,6 +24,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Ebook sobre a história dos vinhos italianos
+Link [Baixe o Ebook sobre Vinhos Italianos](./ebook-vinhos-italianos.pdf)
+
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
